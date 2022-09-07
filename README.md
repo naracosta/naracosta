@@ -8,6 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naracosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naracosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+ <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naracosta&" alt="naracosta" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,5 +31,3 @@
 
 
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naracosta&" alt="naracosta" /></p>
