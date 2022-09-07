@@ -3,12 +3,11 @@
 <h3 align="center">A passionate data scientist from Brazil</h3>
   
 
-<br/>  
-
- 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=naracosta&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<div align="center">
+  <a href="https://github.com/naracosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 ## Connect with me  
