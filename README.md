@@ -10,7 +10,7 @@
 </div>
   
  <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naracosta&" alt="naracosta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naracosta&theme=dracula" alt="naracosta" /></p>
 
 
 
