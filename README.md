@@ -38,25 +38,25 @@ I am a passionate **Data & Software Engineer** focused on building robust archit
         <br>Python
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="PySpark" />
         <br>PySpark
       </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform" />
         <br>Terraform
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB" />
+        <br>MongoDB
         <br>AWS
       </td>
     </tr>
