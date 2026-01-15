@@ -65,20 +65,6 @@ I am a passionate **Data & Software Engineer** focused on building robust archit
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <p>
-    <a href="https://github.com/naracosta">
-      <img height="170em"
-     src="https://streak-stats.demolab.com?user=naracosta&theme=dracula&hide_border=true"/>
-    </a>
-    <a href="https://github.com/naracosta">
-      <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=naracosta&theme=dracula&hide_border=true"/>
-    </a>
-  </p>
-</div>
-
 ---
 
 ### 🤝 Let's Connect
