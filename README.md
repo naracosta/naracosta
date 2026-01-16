@@ -20,11 +20,10 @@
 
 I am a passionate **Data & Software Engineer** focused on building robust architectures. My goal is to transform raw data into business value through scalable pipelines.
 
-- 🔭 **Current Focus:** Advanced Data Architectures & Cloud Computing.
-- 💡 **Specialty:** Building reliable **ETL pipelines** and optimizing **database performance**.
-- 🐍 **Core Tech:** Strong background in **Python** and **Scala**.
-- 🌱 **Learning:** Distributed systems design and best practices for Big Data.
-- ⚡ **Fun fact:** I believe that great software is like a well-told story—clear, engaging, and meaningful.
+- **Current Focus:** Advanced Data Architectures & Cloud Computing.
+- **Specialty:** Building reliable **ETL pipelines** and optimizing **database performance**.
+- **Core Tech:** Strong background in **Python** and **Pyspark**.
+- **Learning:** Distributed systems design and best practices for Big Data.
 
 ---
 
